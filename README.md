@@ -1,4 +1,4 @@
-![logo](https://github.com/PREMTCHAVAN/PREMTCHAVAN/blob/main/github-header-image.png)
+![logo](https://github.com/PREMTCHAVAN/PREMTCHAVAN/blob/main/github-header-image.jpg)
 # Hi there 👋, My name is PREM T CHAVAN
 
 Hello Everyone ' 🤘
