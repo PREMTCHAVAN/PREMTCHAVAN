@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prem Chavan!  
+# 👋 Hello, I'm PREM  
 🚀 Passionate about coding, problem-solving, and building cool stuff!  
 
 ## 🌱 What I'm Learning:
