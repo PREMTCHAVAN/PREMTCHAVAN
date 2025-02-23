@@ -1,18 +1,16 @@
+# 👋 Hello, I'm Prem Chavan!  
+🚀 Passionate about coding, problem-solving, and building cool stuff!  
 
-Hello Hii Welcome to my PROFILE ,
+## 🌱 What I'm Learning:
+- 🐍 Python
+- 💡 Data Structures & Algorithms (DSA)  
+- 🔥 Competitive Programming  
 
-My Self , PREM CHAVAN 
-Right now I am Learning to CODE with PYTHON , DSA ( Developing PROBLEM SOLVING SKILLS ) 
+## 🎯 Completed: 100 Days of DSA Challenge ✅
+I successfully completed my **100 Days of DSA Challenge**, solving **150+ LeetCode problems** and mastering various algorithms. Check out my journey **[here](https://github.com/PREMTCHAVAN/DSA-CHALLANGE#)**! 🚀  
 
-💻🍃,
-PYTHON, 
-DSA, 
-C/C++, 
-PHP ,
-DBMS ,
-JAVA 
-
-I am, Starting DSA Problem Solving Challenge of 100, 😀 stay //tune 
-
+## 📫 Let's Connect:
+- 🌍 [LinkedIn](https://www.linkedin.com/in/prem-chavan-programmer/)  
+- 😀 [YouTube](https://www.youtube.com/@letstryprogramming3110)  
 
 
