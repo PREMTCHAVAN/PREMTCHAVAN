@@ -18,9 +18,15 @@ I successfully completed my **100 Days of DSA Challenge**, solving **150+ LeetCo
 
 ## 🏆 Achievements:  
 
-- Solved 150+ LeetCode problems  
-- Completed 100 Days of DSA Challenge  
-- Creator of tech content on YouTube  
+- Solved 160+ LeetCode problems  
+- IdeaThon National Level Finalist
+- GSSoC’25 Contributor
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PREMTCHAVAN&show_icons=true&theme=dark&hide_border=true" height="180"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREMTCHAVAN&theme=dark&hide_border=true" height="180"/>  
+</p>  
 
 
 ## 📫 Let's Connect:  
