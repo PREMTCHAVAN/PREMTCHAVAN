@@ -1,5 +1,5 @@
-<img src="./Sand.jpg" width="100%" alt="Banner" />
-
+<!-- Matrix Background -->
+![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 # 👋 Hello, I'm PREM  
 
