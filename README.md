@@ -4,10 +4,6 @@
 >
 
 
-
-<!-- Intro -->
-<h3 align="center">Aspiring Software Engineer from Pune, India 🇮🇳</h3>
-
 <!-- Big Typing Roles -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Programmer;DSA+Enthusiast;Competitive+Programmer;Future+Software+Engineer&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
