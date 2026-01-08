@@ -1,3 +1,6 @@
+<img src="./Sand.jpg" width="100%" alt="Banner" />
+
+
 # 👋 Hello, I'm PREM  
 
 💻 Aspiring Software Engineer from Pune, India  
